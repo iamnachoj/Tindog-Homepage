@@ -16,7 +16,9 @@ p {
   background-color: #ff4c68;
   color: #fff;
 }
-
+#press.colored-section{
+  background-color: #e2bcb7;
+}
 .white-section {
 background-color: #FFFAF0;
 }
