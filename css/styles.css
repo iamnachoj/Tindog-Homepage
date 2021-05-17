@@ -140,6 +140,16 @@ background-color: #FFFAF0;
 #pricing {
   padding: 100px;
 }
+.card{
+  border-radius: 1rem;
+  border: black;
+  box-shadow: 3px 3px 5px 6px #ccc;
+}
+.card-header{
+  border-radius: 1.5rem;
+  color:white;
+  background-color: #ff4c68;
+}
 .pricing-header {
   font-size: 3rem;
   line-height: 1.5;
@@ -243,7 +253,7 @@ background-color: #FFFAF0;
   }
 
   .testimonial-heading {
-    font-size: 2rem;
+    font-size: 1.6rem;
     line-height: 1;
 }
 
@@ -256,5 +266,11 @@ background-color: #FFFAF0;
 @media (max-width: 650px) {
   .img-div {
     height: 300px;
+  }
+  #press{
+    display: none;
+  }
+  #pricing {
+    padding: 30px;
   }
 }
