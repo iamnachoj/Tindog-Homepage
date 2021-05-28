@@ -23,4 +23,4 @@ The App is full responsive and enabled in Chrome, Firefox, Safari, Edge, and Int
 
 ## Deployment
 ### Deployment to github pages
--Click this link to view demo LIVE DEMO
+-Click this link to view demo [LIVE DEMO](https://iamnachoj.github.io/Tindog-Homepage/)
